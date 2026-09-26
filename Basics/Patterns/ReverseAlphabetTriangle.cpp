@@ -8,6 +8,7 @@ void print1(int n){
         for (char ch = 'E'-i; ch<='E' ; ch++) {
             cout << ch <<  " ";
         }
+    
         cout << endl;
     } 
 }
